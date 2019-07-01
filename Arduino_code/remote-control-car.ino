@@ -122,7 +122,5 @@ case 'J':BWR();break;
 case 'S':STOP();break;
 // case '' :wall();break;
 default: STOP();}}
-else{
-wall();
-}
+
 }
